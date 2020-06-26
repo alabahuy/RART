@@ -7,5 +7,5 @@ Feature :
 * Mini USB
 * 7u or 6.25u Spacebar
 * RGB underglow
-* Layout 
+* Support layout 
 ![Capture](https://user-images.githubusercontent.com/30220306/85853340-888f4400-b7dc-11ea-8fb7-45de6142eb21.PNG)
