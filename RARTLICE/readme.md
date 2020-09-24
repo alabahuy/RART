@@ -6,6 +6,7 @@ Feature :
 * with Blue Pill STM32F103C8T6-based inspired 
 * Mini USB
 * Ergo Layout
+* Hybrid MX, Alps and Hotswap kailh MX
 * OLED 0.91
 * Support Layout  :
 ![layout](https://user-images.githubusercontent.com/30220306/94159984-5f02b900-feae-11ea-9164-9a1c9ec84257.PNG)
