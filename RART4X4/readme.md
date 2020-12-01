@@ -5,5 +5,6 @@ This is ortho 4x4 mechanical keyboard based on IMKG (Indonesia Mechanical Keyboa
 Feature :
 * PRO MICRO 
 * Mini USB
+* Double Encoder
 * LED Underglow
 * FR4 Plate and case bottom
