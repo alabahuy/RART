@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-11-29T02:59:38Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.1"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "rart4x4bot"
+        },
+        "Owner": "Reza Dio <rezzaadio@gmail.com>",
+        "Size": {
+            "X": 95.25,
+            "Y": 95.25
+        }
+    }
+}
