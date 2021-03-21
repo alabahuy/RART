@@ -1,11 +1,26 @@
 # RART67
-This is 65% mechanical keyboard,based on IMKG (Indonesia Mechanical Keyboard Group)
-![RART67Top](https://user-images.githubusercontent.com/30220306/85907900-53670e00-b83d-11ea-9bc0-ac31369913ba.png)
-![RART67bot](https://user-images.githubusercontent.com/30220306/85907918-5feb6680-b83d-11ea-8667-e8a7ad3472ab.png)
-Feature :
-* ATMEGA32U4
-* Mini USB
-* 7u or 6.25u Spacebar
-* RGB underglow
-* Support layout 
-![Capture](https://user-images.githubusercontent.com/30220306/85853340-888f4400-b7dc-11ea-8fb7-45de6142eb21.PNG)
+
+This is 65% layout mechanical keyboard with Multi layout. Based on IMKG (Indonesia Mechanical Keyboard Group)
+
+![Top](https://user-images.githubusercontent.com/30220306/85907900-53670e00-b83d-11ea-9bc0-ac31369913ba.png)
+
+## Features
+
+- Using Atmega32u4
+- SMD Component
+- QMK firmware and VIA ready
+- Support Ansi and ISO Layout
+- RGB Underglow
+
+## Layouts
+
+![Layout](https://user-images.githubusercontent.com/30220306/111901010-23653800-8a68-11eb-9fee-08911774e036.png)
+
+## Specs
+
+- Dimensions: 304 x 95 mm
+- Mini USB
+- Multi Layout Layout
+
+### Firmware
+- [https://github.com/qmk/qmk_firmware/tree/master/keyboards/rart/rart67](https://github.com/qmk/qmk_firmware/tree/master/keyboards/rart/rart67)
