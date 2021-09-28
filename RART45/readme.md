@@ -1,6 +1,6 @@
 # RART45
 
-This is 40% mechanical keyboard with Ergo layout inspired by Reviung41 by boardsource and Plaid by HGSW ,based on IMKG (Indonesia Mechanical Keyboard Group)
+This is 40% mechanical keyboard with Ergo layout inspired by Reviung41 by @gtips and Plaid by HGSW ,based on IMKG (Indonesia Mechanical Keyboard Group)
 
 ![Top](https://user-images.githubusercontent.com/30220306/107773521-58e37b00-6d70-11eb-9fbd-c2198729ad86.png)
 
