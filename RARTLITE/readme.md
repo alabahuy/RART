@@ -23,4 +23,4 @@ This is 40% mechanical keyboard with numpad and can swap from right numpad to le
 - Mirror Layout
 
 ### Firmware
-- [https://github.com/qmk/qmk_firmware/tree/master/keyboards/rart/rartlit](https://github.com/qmk/qmk_firmware/tree/master/keyboards/rart/rartlite)
+- [https://github.com/qmk/qmk_firmware/tree/master/keyboards/rart/rartlite](https://github.com/qmk/qmk_firmware/tree/master/keyboards/rart/rartlite)
