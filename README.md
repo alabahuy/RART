@@ -15,7 +15,7 @@ A PCB for custom Mechanical keyboard design by [Alabahuy](https://github.com/ala
 | --- | --- | --- |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/L0LbfWg.jpeg"> | [RARTPAD](https://github.com/alabahuy/RART/tree/master/RARTPAD) | A Numpad keyboard support 2 Encoder. Using Pro micro. <br /> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/ngu7YdR.jpeg"> | [RART4x4](https://github.com/alabahuy/RART/tree/master/RART4x4) | 4x4 macropad support 2 Encoder Using Pro micro . <br /> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
-| <img loading="lazy" minwidth="500" src="https://i.imgur.com/8RkCYQE.jpg"> | [RART60](https://github.com/alabahuy/RART/tree/master/RART67) | 60% + 2 Macro can swap left or right only Keyboard using RP2040 . <br /> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| <img loading="lazy" minwidth="500" src="https://i.imgur.com/1Hk4mFQ.jpeg"> | [RARTLICE](https://github.com/alabahuy/RART/tree/master/RART67) | Ergo layout mix alice and arisu, support OLED and using Bluepill (STM32) . <br /> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 
 
 * [RART75](https://github.com/alabahuy/RART/tree/master/RART75)
