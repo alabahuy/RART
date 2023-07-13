@@ -18,4 +18,12 @@ A PCB for custom Mechanical keyboard design by [Alabahuy](https://github.com/ala
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/1Hk4mFQ.jpeg"> | [RARTLICE](https://github.com/alabahuy/RART/tree/master/RARTLICE) | Ergo layout mix alice and arisu, support OLED and using Bluepill (STM32) . <br /> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/UexJw6m.jpeg"> | [RARTLITE](https://github.com/alabahuy/RART/tree/master/RARTLITE) | 40% Stagered 12u with numpad can swap to southpaw layout. Using Pro micro . <br /> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/Ibxa8va.jpeg"> | [RARTAND](https://github.com/alabahuy/RART/tree/master/RARTAND) | like 60% without numrow support OLED and fit 60% case. Using Atmega328p . <br /> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| <img loading="lazy" minwidth="500" src="https://i.imgur.com/OMnzvWn.jpeg"> | [RART45](https://github.com/alabahuy/RART/tree/master/RART45) | 40% Ergo layout. Using Atmega328p. <br /> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 
+## License
+
+This design may be reproduced, modified, and manufactured for **Personal Use Only** and not for **Public Sale**, however I allow to anyone who want to do small GB for their community for maximum of 10 pieces of this PCB per group buy.
+
+[![MIT License](https://i0.wp.com/opensource.org/wp-content/uploads/2023/03/cropped-OSI-horizontal-large.png?fit=640%2C229&ssl=1)]((https://opensource.org/license/mit/))
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://opensource.org/license/mit/).
