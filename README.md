@@ -24,6 +24,6 @@ A PCB for custom Mechanical keyboard design by [Alabahuy](https://github.com/ala
 
 This design may be reproduced, modified, and manufactured for **Personal Use Only** and not for **Public Sale**, however I allow to anyone who want to do small GB for their community for maximum of 10 pieces of this PCB per group buy.
 
-[![MIT License](https://i0.wp.com/opensource.org/wp-content/uploads/2023/03/cropped-OSI-horizontal-large.png?fit=640%2C229&ssl=1)]((https://opensource.org/license/mit/))
+[![MIT License](https://i0.wp.com/opensource.org/wp-content/uploads/2023/01/cropped-cropped-OSI_Horizontal_Logo_0-e1674081292667.png?fit=240%2C240&ssl=1)]((https://opensource.org/license/mit/))
 
-This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://opensource.org/license/mit/).
+This work is licensed under a [The MIT License](https://opensource.org/license/mit/).
