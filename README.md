@@ -7,6 +7,8 @@ A PCB for custom Mechanical keyboard design by [Alabahuy](https://github.com/ala
 | --- | --- | --- |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/aU5zGnD.jpeg"> | [RART75](https://github.com/alabahuy/RART/tree/master/RART75) | 75% Keyboard arrow exploded using Atmega32u4, support encoder. <br /> [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/b8dKcU2.png"> | [RART67](https://github.com/alabahuy/RART/tree/master/RART67) | 65% Keyboard using Atmega32u4 . <br /> [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) |
+| <img loading="lazy" minwidth="500" src="hhttps://i.imgur.com/8RkCYQE.jpg"> | [RART60](https://github.com/alabahuy/RART/tree/master/RART67) | 60% + 2 Macro can swap left or right only Keyboard using RP2040 . <br /> [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) |
+
 
 
 * [RART75](https://github.com/alabahuy/RART/tree/master/RART75)
