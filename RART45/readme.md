@@ -2,6 +2,16 @@
 
 This is 40% mechanical keyboard with Ergo layout inspired by Reviung41 by @gtips and Plaid by HGSW ,based on IMKG (Indonesia Mechanical Keyboard Group)
 
+## Features and Specs
+
+* Using Atmega328p with VUSB
+* Semi trough hole component
+* QMK firmware and VIA ready
+* Ergo layout
+* Dimensions: 262 x 118 mm
+* Mini USB
+* Single Layout
+
 ## Components
 
 In addition to the PCBs you need these components to build a working keyboard:
@@ -24,17 +34,6 @@ In addition to the PCBs you need these components to build a working keyboard:
 * 1x Plate
 * 1x Bottom Case
 * Adhesive rubber feet
-
-## Features and Specs
-
-* Using Atmel328p with VUSB
-* Semi trough hole component
-* QMK firmware and VIA ready
-* Ergo layout
-* Dimensions: 262 x 118 mm
-* Mini USB
-* Single Layout
-* VUSB bootloader
 
 ## Layouts
 
