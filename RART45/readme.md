@@ -2,21 +2,27 @@
 
 This is 40% mechanical keyboard with Ergo layout inspired by Reviung41 by @gtips and Plaid by HGSW ,based on IMKG (Indonesia Mechanical Keyboard Group)
 
->![Top](https://user-images.githubusercontent.com/30220306/107773521-58e37b00-6d70-11eb-9fbd-c2198729ad86.png)
->_Top PCB_
-
 ## Components
 
 In addition to the PCBs you need these components to build a working keyboard:
 
-* 1x Pro-Micro or compatible controller
-* 40x Kailh Choc hotswap sockets
-* 40x Kailh Choc v1 switches
-* 40x diodes (SMD or through-hole)
-* 40x FK-Keycaps Hex Caps
-* 1x reset switch (optional)
-* 4x 2-pin and 1x 5-pin male and female headers to connect the two PCBs (optional)
-* 5x M2 stand-offs + screws/nuts (optional)
+* 1x Atmega328P-PU
+* 1x 28 Pin IC socket
+* 1x Mini USB Female Connector
+* 53x Diode 1n4148 SMD SOD123
+* 1x Crystal 16mHz
+* 1x Fuse 500 mA
+* 2x Zener Diode 3.6V
+* 2x 75ohm Resistor
+* 1x 1.5kohm Resistor
+* 1x 10kohm Resistor
+* 1x 4.7uF Capacitor
+* 2x 22pF Capacitor
+* 2x 0.1uF Capacitor
+* 2x 6 mm Push Button reset switch
+* 1x 2x3-pin header for ICSP 
+* 1x Plate
+* 1x Bottom Case
 * Adhesive rubber feet
 
 ## Features and Specs
@@ -31,6 +37,9 @@ In addition to the PCBs you need these components to build a working keyboard:
 * VUSB bootloader
 
 ## Layouts
+
+>![Top](https://user-images.githubusercontent.com/30220306/107773521-58e37b00-6d70-11eb-9fbd-c2198729ad86.png)
+>_Top PCB_
 
 ![Layout](https://user-images.githubusercontent.com/30220306/107774693-e6739a80-6d71-11eb-8915-c17a7052c086.jpeg)
 
