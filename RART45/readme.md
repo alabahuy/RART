@@ -1,6 +1,6 @@
 # RART45
 
-This is 40% mechanical keyboard with Ergo layout inspired by Reviung41 by @gtips and Plaid by HGSW ,based on IMKG (Indonesia Mechanical Keyboard Group)
+This is 40% mechanical keyboard with Ergo layout inspired by Reviung41 by @gtips and Plaid by HGSW ,based on IMKG [(Indonesia Mechanical Keyboard Group)](https://discord.gg/imkg)
 
 ## Features and Specs
 
@@ -42,4 +42,3 @@ In addition to the PCBs you need these components to build a working keyboard:
 
 ### Firmware
 - [QMK and VIA Support](https://github.com/qmk/qmk_firmware/tree/master/keyboards/rart/rart45)
-
