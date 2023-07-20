@@ -25,13 +25,16 @@ In addition to the PCBs you need these components to build a working keyboard:
 
 ## Layouts
 
->![Main PCB](https://user-images.githubusercontent.com/30220306/107841605-d3eb7680-6dee-11eb-95f5-51c5a50fb996.png)
+![Main PCB](https://user-images.githubusercontent.com/30220306/107841605-d3eb7680-6dee-11eb-95f5-51c5a50fb996.png)
+
 >_Main PCB_
 
->![Plate](https://user-images.githubusercontent.com/30220306/107841712-de5a4000-6def-11eb-99dd-b6c68c2a598a.png)
+![Plate](https://user-images.githubusercontent.com/30220306/107841712-de5a4000-6def-11eb-99dd-b6c68c2a598a.png)
+
 >_Plate_
 
->![Bottom](https://user-images.githubusercontent.com/30220306/107841741-1a8da080-6df0-11eb-992f-4970167e0775.png)
+![Bottom](https://user-images.githubusercontent.com/30220306/107841741-1a8da080-6df0-11eb-992f-4970167e0775.png)
+
 >_Bottom Case_
 
 ### Firmware

@@ -37,7 +37,8 @@ In addition to the PCBs you need these components to build a working keyboard:
 
 ## Layouts
 
->![Top](https://user-images.githubusercontent.com/30220306/107773521-58e37b00-6d70-11eb-9fbd-c2198729ad86.png)
+![Top](https://user-images.githubusercontent.com/30220306/107773521-58e37b00-6d70-11eb-9fbd-c2198729ad86.png)
+
 >_Top PCB_
 
 ### Firmware
